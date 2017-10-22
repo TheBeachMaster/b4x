@@ -1,0 +1,15 @@
+b4j.example
+0
+0
+main,application_error,0,0,18,20
+
+
+
+main,appstart,1,0,11,15
+,mainform
+,mainform
+
+main,process_globals,0,1,6,9
+
+
+
